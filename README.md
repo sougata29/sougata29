@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sougata29
-- 👀 I’m interested in learning programming
+- 👀 interested in programming
 - 🌱 I’m currently learning Btech(IT)
 
 <!---
